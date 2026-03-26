@@ -1,0 +1,75 @@
+{
+  "fill" : "automatic",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "FoxLayer.png",
+          "name" : "FoxLayer",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              -4.649999999999977,
+              118.42784766052227
+            ]
+          }
+        },
+        {
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Infinity.png",
+          "name" : "Infinity",
+          "position" : {
+            "scale" : 0.5,
+            "translation-in-points" : [
+              0,
+              -264.6353866954121
+            ]
+          }
+        },
+        {
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Layer2.png",
+          "name" : "Layer2",
+          "position" : {
+            "scale" : 2.6,
+            "translation-in-points" : [
+              -1.1368683772161603e-13,
+              -5.004358292329471
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : "none",
+          "glass" : false,
+          "hidden" : false,
+          "image-name" : "Background 2.png",
+          "name" : "Background 2",
+          "position" : {
+            "scale" : 2.6,
+            "translation-in-points" : [
+              -2.6000000000000227,
+              3.8999999999999773
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
